@@ -7,5 +7,5 @@
 <p>HTML CSS JS   jSON</p>
 
 <h3>Ekran Görüntüsü</h3>
-![](/card.gif)
+![](card.gif)
 # githbucards
